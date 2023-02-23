@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCDungeonsLauncher", "MCDungeonsLauncher.csproj", "{C8E4FD0F-99C2-4ECE-9BC5-409343F5DC4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nadezda", "..\NadezdaUI\Nadezda\Nadezda.csproj", "{EFC41FF7-E96C-4DD6-AF99-03F9E4FF9A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C8E4FD0F-99C2-4ECE-9BC5-409343F5DC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E4FD0F-99C2-4ECE-9BC5-409343F5DC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E4FD0F-99C2-4ECE-9BC5-409343F5DC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC41FF7-E96C-4DD6-AF99-03F9E4FF9A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC41FF7-E96C-4DD6-AF99-03F9E4FF9A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC41FF7-E96C-4DD6-AF99-03F9E4FF9A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC41FF7-E96C-4DD6-AF99-03F9E4FF9A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
